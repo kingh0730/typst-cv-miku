@@ -60,6 +60,18 @@
 
 #let projecttitle = [ Experience ]
 #let projectexperience = [
+    #datedsubsection(
+    align(left)[
+      *Tsinghua University* \
+      Research Engineer
+    ],
+    align(right)[
+      May 2022 - Aug 2022
+    ]
+  )
+  - Used Django and Streamlit to build a service for data processing, analysis, and visualization, enabling 10+ data pipelines, including association rule learning, dynamic time warping, etc.
+  - Used PyTorch CNNs to recognize objects in NASA satellite images, validated the feasibility of a new product.
+
   #datedsubsection(
     align(left)[
       *Tsinghua University* \
@@ -69,7 +81,6 @@
       May 2022 - Aug 2022
     ]
   )
-
   - Used Django and Streamlit to build a service for data processing, analysis, and visualization, enabling 10+ data pipelines, including association rule learning, dynamic time warping, etc.
   - Used PyTorch CNNs to recognize objects in NASA satellite images, validated the feasibility of a new product.
 
@@ -82,7 +93,6 @@
       Sep 2021 --- May 2022
     ]
   )
-
   - Used TypeScript and C\# to prototype the new Office AI for Excel.
   - Used TensorFlow to improve a deployed ML classification model (LSTM + CRF). Increased F1 score from 72 to 77.
 ]
