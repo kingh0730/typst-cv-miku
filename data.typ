@@ -4,10 +4,6 @@
 #let email = [
   #icon("email.svg") kingh0730\@gmail.com
 ]
-#let phone = [
-  #icon("phone.svg")
-  (+81) 0906914373641
-]
 #let home = [
   #icon("home.svg")
   #link("https://kinghan.info")[ kinghan.info ]
@@ -24,7 +20,6 @@
 #let author = (
   name: name,
   email: email,
-  phone: phone,
   home: home,
   github: github,
   linkin: linkin,
