@@ -34,38 +34,16 @@
 #let edu = [
   #datedsubsection(
     align(left)[
-      *#lorem(4)* \
-      #lorem(4)
+      *University of California, Berkeley* \
+      B.A. Honors Computer Science & Mathematics
     ],
     align(right)[
-      Tokyo, Japan \
-      202x - _present_
+      Berkeley, CA \
+      May 2024
     ]
   )
 
-  #lorem(32)
-
-  #datedsubsection(
-    align(left)[
-      *#lorem(4)* \
-      #lorem(4)
-    ],
-    align(right)[
-      Aichi, Japan \
-      201x - 201x
-    ]
-  )
-
-  #datedsubsection(
-    align(left)[
-      *#lorem(4)* \
-      #lorem(4)
-    ],
-    align(right)[
-      Aichi, Japan \
-      201x - 201x
-    ]
-  )
+  - Tech GPA: 4.0 | GPA: 3.92
 ]
 
 #let techtitle = [ Technical Skills ]
