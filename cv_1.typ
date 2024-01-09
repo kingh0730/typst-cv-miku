@@ -22,10 +22,10 @@
 
 #projectexperience
 
-#section[ #titleemj("darts.svg") #activitytitle ]
+// #section[ #titleemj("darts.svg") #activitytitle ]
 
-#activity
+// #activity
 
-#section[ #titleemj("football.svg") #hobbiestitle ]
+// #section[ #titleemj("football.svg") #hobbiestitle ]
 
-#hobbies
+// #hobbies
