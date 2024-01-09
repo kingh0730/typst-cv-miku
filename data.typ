@@ -58,15 +58,14 @@
 #let projectexperience = [
   #datedsubsection(
     align(left)[
-      *Huawei* \
-      Software Engineer Intern
+      *UC Berkeley Electrical Engineering & Computer Sciences* \
+      Researcher
     ],
     align(right)[
-      Sep 2022 - Dec 2022
+      Jan 2023 - Dec 2023
     ]
   )
-  - Designed, implemented, and validated a new service (for radio units) using C/C++.
-  - Optimized a deployed service, reducing its runtime complexity from exponential to polynomial.
+  - Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library for circuit optimization.
 
   #datedsubsection(
     align(left)[
