@@ -62,15 +62,15 @@
 #let projectexperience = [
     #datedsubsection(
     align(left)[
-      *Tsinghua University* \
-      Research Engineer
+      *Huawei* \
+      Software Engineer Intern
     ],
     align(right)[
-      May 2022 - Aug 2022
+      Sep 2022 - Dec 2022
     ]
   )
-  - Used Django and Streamlit to build a service for data processing, analysis, and visualization, enabling 10+ data pipelines, including association rule learning, dynamic time warping, etc.
-  - Used PyTorch CNNs to recognize objects in NASA satellite images, validated the feasibility of a new product.
+  - Designed, implemented, and validated a new service (for radio units) using C/C++.
+  - Optimized a key algorithm, reducing its runtime complexity from exponential to polynomial.
 
   #datedsubsection(
     align(left)[
