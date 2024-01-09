@@ -84,7 +84,7 @@
     ]
   )
   - Built a service for data processing and analysis using Django, enabling data scientists on the team to perform 10+ data pipelines, including association rule learning, dynamic time warping, etc.
-  - Used PyTorch CNNs to recognize objects in NASA satellite images, validated the feasibility of a new product.
+  - Used PyTorch CNNs to recognize objects in NASA satellite images, validating the feasibility of a new product.
 
   #datedsubsection(
     align(left)[
