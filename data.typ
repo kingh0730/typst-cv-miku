@@ -1,7 +1,6 @@
 #import "template.typ": *
 
 #let name = "Nakano Miku"
-#let namezh = "中野三玖"
 #let email = [
   #icon("email.svg") n.miku0505\@socomo.ne.jp
 ]
@@ -30,22 +29,10 @@
   github: github,
   linkin: linkin,
 )
-#let authorzh = (
-  name: namezh,
-  email: email,
-  phone: phone,
-  home: home,
-  github: github,
-  linkin: linkin,
-)
 
 #let selftitle = [ Self Introduction ]
-#let selftitlezh = [ 自我总结 ]
 #let self = [
-  #lorem(64)
-]
-#let selfzh = [
-  管怀馈犬筹鞘旺增半挂剪吹。励川锂撮菌爷钵梁讽途连和枚反？醛佛奋。篇演靶店寺济枪蔗艇胆历昂遗沾，纲锌妈窖腾奠昆捞经羞幕获豌厚她垅妈轲析夯舰墩璃损傍苷兹仑盒面哪核温藏给录伟助晰言航贸轲洼涉姿妇踪孕。瞎列疾俱寿幅虾夕长坐珠助夏踏蛾阮纸浙恢层融噪拿辐拢厦升体曹呢局？
+  #lorem(32)
 ]
 
 #let edutitle = [ Education ]
