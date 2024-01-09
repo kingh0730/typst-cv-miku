@@ -22,7 +22,7 @@
   // Set the document's basic properties.
   set document(author: author.name, title: title)
   set page(
-    numbering: "1 / 1",
+    // numbering: "1 / 1",
     number-align: center,
     margin: (
       x: 0.7in,

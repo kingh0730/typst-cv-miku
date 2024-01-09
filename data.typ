@@ -2,7 +2,7 @@
 
 #let name = "Shangdian (King) Han"
 #let email = [
-  #icon("email.svg") kingh0730@gmail.com
+  #icon("email.svg") kingh0730\@gmail.com
 ]
 #let phone = [
   #icon("phone.svg")
