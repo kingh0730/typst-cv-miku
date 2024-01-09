@@ -70,7 +70,7 @@
     ]
   )
   - Designed, implemented, and validated a new service (for radio units) using C/C++.
-  - Optimized a key algorithm, reducing its runtime complexity from exponential to polynomial.
+  - Optimized a deployed service, reducing its runtime complexity from exponential to polynomial.
 
   #datedsubsection(
     align(left)[
