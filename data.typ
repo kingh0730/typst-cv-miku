@@ -50,12 +50,24 @@
 
 #let techtitle = [ Skills ]
 #let tech = [
-  - *Expert*: Python
+  - *Expert*: Python, PyTorch, JS/TS, Rect/Next.js
   - *Proficient*: C/C++
 ]
 
 #let projecttitle = [ Experience ]
 #let projectexperience = [
+  #datedsubsection(
+    align(left)[
+      *Huawei* \
+      Software Engineer Intern
+    ],
+    align(right)[
+      Sep 2022 - Dec 2022
+    ]
+  )
+  - Designed, implemented, and validated a new service (for radio units) using C/C++.
+  - Optimized a deployed service, reducing its runtime complexity from exponential to polynomial.
+
   #datedsubsection(
     align(left)[
       *Huawei* \
