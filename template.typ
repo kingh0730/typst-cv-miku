@@ -1,5 +1,5 @@
 // You may need to change this settings
-#let sansen = "KpSans"
+#let sansen = "Fontin"
 #let sanszh = "Source Han Sans SC"
 #let serifen = "KpRoman"
 #let serifzh = "Source Han Serif SC"
