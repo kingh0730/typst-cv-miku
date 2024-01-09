@@ -27,8 +27,9 @@
 
 #let selftitle = [ Personal Statement ]
 #let self = [
-  I'm a research engineer.
-  At Microsoft Research, I prototyped the new Office AI for Excel.
+  - Full-stack research engineer.
+  - Proficient in software engineering, with 5+ years of experience in successfully collaborating with ML researchers to turn research into products.
+  - At Microsoft Research, I prototyped the new Office AI for Excel.
 ]
 
 #let edutitle = [ Education ]
