@@ -44,8 +44,8 @@
       May 2024
     ]
   )
-
   - Tech GPA: 4.0 | GPA: 3.92
+  - *Coursework*: Hi
 ]
 
 #let projecttitle = [ Experience ]
@@ -102,5 +102,4 @@
 #let techtitle = [ Skills ]
 #let tech = [
   - *Expert*: Python, PyTorch, JS/TS, Rect/Next.js
-  - *Proficient*: C/C++
 ]
