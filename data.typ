@@ -25,7 +25,7 @@
   linkin: linkin,
 )
 
-#let selftitle = [ Self Introduction ]
+#let selftitle = [ Personal Statement ]
 #let self = [
   #lorem(32)
 ]
@@ -46,7 +46,7 @@
   - Tech GPA: 4.0 | GPA: 3.92
 ]
 
-#let techtitle = [ Technical Skills ]
+#let techtitle = [ Skills ]
 #let tech = [
   - *Programming*: #lorem(8)
     - #lorem(8)
@@ -57,7 +57,7 @@
     - #lorem(8)
 ]
 
-#let projecttitle = [ Project Experience ]
+#let projecttitle = [ Experience ]
 #let projectexperience = [
   #datedsubsection(
     align(left)[

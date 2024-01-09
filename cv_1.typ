@@ -6,7 +6,7 @@
   author: author,
 )
 
-#section[ #titleemj("curl.svg") #selftitle ]
+#section[ #titleemj("darts.svg") #selftitle ]
 
 #self
 
