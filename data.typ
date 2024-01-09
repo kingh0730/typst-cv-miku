@@ -83,7 +83,7 @@
       May 2022 - Aug 2022
     ]
   )
-  - Used Django to build a service for data processing and analysis, enabling data scientists on the team to perform 10+ data pipelines, including association rule learning, dynamic time warping, etc.
+  - Built a service for data processing and analysis using Django, enabling data scientists on the team to perform 10+ data pipelines, including association rule learning, dynamic time warping, etc.
   - Used PyTorch CNNs to recognize objects in NASA satellite images, validated the feasibility of a new product.
 
   #datedsubsection(
