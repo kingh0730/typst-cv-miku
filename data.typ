@@ -37,7 +37,7 @@
   #datedsubsection(
     align(left)[
       *University of California, Berkeley* \
-      B.A. Honors Computer Science & Mathematics
+      _B.A. Honors Computer Science & Mathematics_
     ],
     align(right)[
       Berkeley, CA \
@@ -53,7 +53,7 @@
   #datedsubsection(
     align(left)[
       *UC Berkeley Electrical Engineering & Computer Sciences* \
-      Researcher
+      _Researcher_
     ],
     align(right)[
       Jan 2023 - Dec 2023
@@ -65,7 +65,7 @@
   #datedsubsection(
     align(left)[
       *Huawei* \
-      Software Engineer Intern
+      _Software Engineer Intern_
     ],
     align(right)[
       Sep 2022 - Dec 2022
@@ -77,7 +77,7 @@
   #datedsubsection(
     align(left)[
       *Tsinghua University* \
-      Research Engineer
+      _Research Engineer_
     ],
     align(right)[
       May 2022 - Aug 2022
@@ -89,7 +89,7 @@
   #datedsubsection(
     align(left)[
       *Microsoft Research* \
-      Research Fellow
+      _Research Fellow_
     ],
     align(right)[
       Sep 2021 --- May 2022
