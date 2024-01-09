@@ -6,9 +6,8 @@
 #let emj = "Segoe UI Emoji"
 
 #let info = author => align(center)[
-  #author.email \
-  #author.phone \
-  #author.home · #author.github · #author.linkin
+  #author.email · #author.home · #author.github · #author.linkin
+  // #author.phone \
 ]
 
 // You don't really need to change the content below

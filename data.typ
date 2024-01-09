@@ -14,11 +14,11 @@
 ]
 #let github = [
   #icon("github.svg")
-  #link("https://miku.example.com")[ miku ]
+  #link("https://github.com/kingh0730")[ kingh0730 ]
 ]
 #let linkin = [
   #icon("linkedin.svg")
-  #link("https://miku.example.com")[ Nakano Miku ]
+  #link("https://www.linkedin.com/in/kingh0730/")[ kingh0730 ]
 ]
 
 #let author = (
