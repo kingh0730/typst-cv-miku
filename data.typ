@@ -1,8 +1,8 @@
 #import "template.typ": *
 
-#let name = "Nakano Miku"
+#let name = "Shangdian (King) Han"
 #let email = [
-  #icon("email.svg") n.miku0505\@socomo.ne.jp
+  #icon("email.svg") kingh0730@gmail.com
 ]
 #let phone = [
   #icon("phone.svg")
@@ -10,7 +10,7 @@
 ]
 #let home = [
   #icon("home.svg")
-  #link("https://miku.example.com")[ miku.example.com ]
+  #link("https://kinghan.info")[ kinghan.info ]
 ]
 #let github = [
   #icon("github.svg")
