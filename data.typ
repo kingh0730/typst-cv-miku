@@ -48,12 +48,6 @@
   - Tech GPA: 4.0 | GPA: 3.92
 ]
 
-#let techtitle = [ Skills ]
-#let tech = [
-  - *Expert*: Python, PyTorch, JS/TS, Rect/Next.js
-  - *Proficient*: C/C++
-]
-
 #let projecttitle = [ Experience ]
 #let projectexperience = [
   #datedsubsection(
@@ -102,4 +96,10 @@
   )
   - Used TypeScript and C\# to prototype the new Office AI for Excel.
   - Used TensorFlow to improve a deployed ML classification model (LSTM + CRF). Increased F1 score from 72 to 77.
+]
+
+#let techtitle = [ Skills ]
+#let tech = [
+  - *Expert*: Python, PyTorch, JS/TS, Rect/Next.js
+  - *Proficient*: C/C++
 ]
