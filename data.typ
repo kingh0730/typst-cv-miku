@@ -44,7 +44,7 @@
       May 2024
     ]
   )
-  - Technical GPA: 4.0 | GPA: 3.92
+  - Tech GPA: 4.0 | GPA: 3.92
   - *Coursework*: AI, ML, Probability, LinAlg, Algorithms, Optimization, Compilers, Computer Security
 ]
 
