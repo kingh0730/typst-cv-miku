@@ -61,27 +61,27 @@
 #let projectexperience = [
   #datedsubsection(
     align(left)[
+      *Tsinghua University* \
+      Research Engineer
+    ],
+    align(right)[
+      May 2022 - Aug 2022
+    ]
+  )
+
+  - Used Django and Streamlit to build a framework for data processing, analysis, and visualization, enabling dozens of pipelines, e.g. association rule learning, dynamic time warping.
+  - Used PyTorch CNNs to recognize objects in NASA satellite images, validated the feasibility of a new product.
+
+  #datedsubsection(
+    align(left)[
       *Microsoft Research* \
       Research Fellow
     ],
     align(right)[
-      September 2021 --- May 2022
+      Sep 2021 --- May 2022
     ]
   )
 
   - Used TypeScript and C\# to prototype the new Office AI for Excel.
   - Used TensorFlow to improve a deployed ML classification model (LSTM + CRF). Increased F1 score from 72 to 77.
-
-  #datedsubsection(
-    align(left)[
-      *#lorem(4)* \
-      Maintainer
-    ],
-    align(right)[
-      202x - _present_
-    ]
-  )
-
-  - #lorem(32)
-  - #lorem(8)
 ]
