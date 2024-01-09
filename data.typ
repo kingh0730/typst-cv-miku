@@ -27,7 +27,8 @@
 
 #let selftitle = [ Personal Statement ]
 #let self = [
-  #lorem(32)
+  I'm a research engineer.
+  At Microsoft Research, I prototyped the new Office AI for Excel.
 ]
 
 #let edutitle = [ Education ]
@@ -69,7 +70,7 @@
     ]
   )
 
-  - Used Django and Streamlit to build a framework for data processing, analysis, and visualization, enabling dozens of pipelines, e.g. association rule learning, dynamic time warping.
+  - Used Django and Streamlit to build a framework for data processing, analysis, and visualization, enabling 10+ data pipelines, including association rule learning, dynamic time warping, etc.
   - Used PyTorch CNNs to recognize objects in NASA satellite images, validated the feasibility of a new product.
 
   #datedsubsection(
