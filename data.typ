@@ -70,7 +70,7 @@
     ]
   )
 
-  - Used Django and Streamlit to build a framework for data processing, analysis, and visualization, enabling 10+ data pipelines, including association rule learning, dynamic time warping, etc.
+  - Used Django and Streamlit to build a service for data processing, analysis, and visualization, enabling 10+ data pipelines, including association rule learning, dynamic time warping, etc.
   - Used PyTorch CNNs to recognize objects in NASA satellite images, validated the feasibility of a new product.
 
   #datedsubsection(
