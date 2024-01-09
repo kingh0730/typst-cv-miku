@@ -71,7 +71,7 @@
       Sep 2022 - Dec 2022
     ]
   )
-  - Designed, implemented, and validated a new service (for radio units) using C/C++, enabling cellular networks to support the new 5G standard.
+  - Designed, implemented, and validated a new service for frequency management using C/C++, enabling cellular networks to support the new 5G standard.
   - Optimized a deployed service, reducing its runtime complexity from exponential to polynomial.
 
   #datedsubsection(
