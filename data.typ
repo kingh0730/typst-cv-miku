@@ -101,5 +101,5 @@
 
 #let techtitle = [ Skills ]
 #let tech = [
-  - *Advanced*: Python, PyTorch, JS/TS, Rect/Next.js, Rust, C/C++, Java/C\#, CUDA, GCP, 
+  - *Advanced*: Python, PyTorch, JS/TS, Rect/Next.js, Svelte, Rust, C/C++, Java/C\#, CUDA, GCP, 
 ]
