@@ -50,18 +50,13 @@
 
 #let techtitle = [ Skills ]
 #let tech = [
-  - *Programming*: #lorem(8)
-    - #lorem(8)
-    - #lorem(8)
-  - *Key words*: #lorem(8)
-  - *Tools*: #lorem(8)
-    - #lorem(8)
-    - #lorem(8)
+  - *Expert*: Python
+  - *Proficient*: C/C++
 ]
 
 #let projecttitle = [ Experience ]
 #let projectexperience = [
-    #datedsubsection(
+  #datedsubsection(
     align(left)[
       *Huawei* \
       Software Engineer Intern
