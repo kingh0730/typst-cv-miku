@@ -28,7 +28,7 @@
 #let selftitle = [ Personal Statement ]
 #let self = [
   - Full-stack research engineer.
-  - Proficient in software engineering, with 5+ years of experience in successfully collaborating with ML researchers to turn research into products.
+  - Specialized in software engineering, with 5+ years of experience in successfully collaborating with ML researchers to turn research into products.
   - At Microsoft Research, I prototyped the new Office AI for Excel.
 ]
 
@@ -45,7 +45,7 @@
     ]
   )
   - Tech GPA: 4.0 | GPA: 3.92
-  - *Coursework*: Hi
+  - *Coursework*: AI, ML, Probability, LinAlg, Algorithms, Optimization, Compilers, Computer Security
 ]
 
 #let projecttitle = [ Experience ]
@@ -101,5 +101,5 @@
 
 #let techtitle = [ Skills ]
 #let tech = [
-  - *Expert*: Python, PyTorch, JS/TS, Rect/Next.js
+  - *Advanced*: Python, PyTorch, JS/TS, Rect/Next.js, Rust, C/C++, Java/C\#, CUDA, GCP, 
 ]
