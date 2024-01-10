@@ -64,18 +64,6 @@
 
   #datedsubsection(
     align(left)[
-      *Huawei* \
-      _Software Engineer Intern_
-    ],
-    align(right)[
-      Sep 2022 - Dec 2022
-    ]
-  )
-  - Designed, implemented, and validated a new service for frequency management using C/C++, enabling cellular networks to support the new 5G standard.
-  - Optimized a deployed service using C/C++, reducing its runtime complexity from exponential to polynomial.
-
-  #datedsubsection(
-    align(left)[
       *Tsinghua University* \
       _Research Engineer_
     ],
@@ -97,6 +85,18 @@
   )
   - Prototyped the new Office AI for Excel using TypeScript, C\#, and TensorFlow, enabling users to perform 10+ AI tasks. Shipped to the Excel product team.
   - Improved a deployed ML classification model (LSTM + CRF) using TensorFlow, increasing its F1 score from 72 to 77.
+
+  #datedsubsection(
+    align(left)[
+      *Huawei* \
+      _Software Engineer Intern_
+    ],
+    align(right)[
+      Sep 2022 - Dec 2022
+    ]
+  )
+  - Designed, implemented, and validated a new service for frequency management using C/C++, enabling cellular networks to support the new 5G standard.
+  - Optimized a deployed service using C/C++, reducing its runtime complexity from exponential to polynomial.
 ]
 
 #let techtitle = [ Skills ]
