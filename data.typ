@@ -53,6 +53,18 @@
   #datedsubsection(
     align(left)[
       *Research Engineer* \
+      _Sky Computing Lab_
+    ],
+    align(right)[
+      Jan 2023 - Dec 2023
+    ]
+  )
+  - Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library for circuit optimization using OpenAI Gym and Ray.
+  - Enabled ML researchers to design optimal circuits without any prior knowledge of circuit design, reducing the design time from 1 week to 1 day.
+
+  #datedsubsection(
+    align(left)[
+      *Research Engineer* \
       _UC Berkeley Electrical Engineering & Computer Sciences_
     ],
     align(right)[
@@ -86,17 +98,17 @@
   - Prototyped the new Office AI for Excel using TypeScript, C\#, and TensorFlow, enabling users to perform 10+ AI tasks. Shipped to the Excel product team.
   - Improved a deployed ML classification model (LSTM + CRF) using TensorFlow, increasing its F1 score from 72 to 77.
 
-  #datedsubsection(
-    align(left)[
-      *Software Engineer Intern* \
-      _Huawei_
-    ],
-    align(right)[
-      Sep 2022 - Dec 2022
-    ]
-  )
-  - Designed, implemented, and validated a new service for frequency management using C/C++, enabling cellular networks to support the new 5G standard.
-  - Optimized a deployed service using C/C++, reducing its runtime complexity from exponential to polynomial.
+  // #datedsubsection(
+  //   align(left)[
+  //     *Software Engineer Intern* \
+  //     _Huawei_
+  //   ],
+  //   align(right)[
+  //     Sep 2022 - Dec 2022
+  //   ]
+  // )
+  // - Designed, implemented, and validated a new service for frequency management using C/C++, enabling cellular networks to support the new 5G standard.
+  // - Optimized a deployed service using C/C++, reducing its runtime complexity from exponential to polynomial.
 ]
 
 #let techtitle = [ Skills ]
