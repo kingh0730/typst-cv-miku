@@ -52,8 +52,8 @@
 #let projectexperience = [
   #datedsubsection(
     align(left)[
-      *UC Berkeley Electrical Engineering & Computer Sciences* \
-      _Researcher_
+      *Research Engineer* \
+      _UC Berkeley Electrical Engineering & Computer Sciences_
     ],
     align(right)[
       Jan 2023 - Dec 2023
@@ -64,8 +64,8 @@
 
   #datedsubsection(
     align(left)[
-      *Tsinghua University* \
-      _Research Engineer_
+      *Research Engineer* \
+      _Tsinghua University_
     ],
     align(right)[
       May 2022 - Aug 2022
@@ -76,8 +76,8 @@
 
   #datedsubsection(
     align(left)[
-      *Microsoft Research* \
-      _Research Fellow_
+      *Research Fellow* \
+      _Microsoft Research_
     ],
     align(right)[
       Sep 2021 --- May 2022
@@ -88,8 +88,8 @@
 
   #datedsubsection(
     align(left)[
-      *Huawei* \
-      _Software Engineer Intern_
+      *Software Engineer Intern* \
+      _Huawei_
     ],
     align(right)[
       Sep 2022 - Dec 2022
