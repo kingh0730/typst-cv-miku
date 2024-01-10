@@ -41,7 +41,7 @@
     ],
     align(right)[
       Berkeley, CA \
-      May 2024
+      Aug 2018 --- May 2024
     ]
   )
   - Tech GPA: 4.0 | GPA: 3.92
@@ -56,7 +56,7 @@
       _Sky Computing Lab_
     ],
     align(right)[
-      Jan 2023 - Dec 2023
+      Mar 2023 --- _present_
     ]
   )
   - Spearheaded the implementation of a "live" benchmark for code LLMs (Large Language Models), ensuring real-time performance evaluation while preventing data contamination.
@@ -68,7 +68,7 @@
       _UC Berkeley Electrical Engineering & Computer Sciences_
     ],
     align(right)[
-      Jan 2023 - Dec 2023
+      Jan 2023 --- Dec 2023
     ]
   )
   - Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library for circuit optimization using OpenAI Gym and Ray.
@@ -80,7 +80,7 @@
       _Tsinghua University_
     ],
     align(right)[
-      May 2022 - Aug 2022
+      May 2022 --- Aug 2022
     ]
   )
   - Built a service for data processing and analysis using Django, enabling data scientists on the team to perform 10+ data pipelines, including association rule learning, dynamic time warping, etc.
@@ -104,7 +104,7 @@
   //     _Huawei_
   //   ],
   //   align(right)[
-  //     Sep 2022 - Dec 2022
+  //     Sep 2022 --- Dec 2022
   //   ]
   // )
   // - Designed, implemented, and validated a new service for frequency management using C/C++, enabling cellular networks to support the new 5G standard.
