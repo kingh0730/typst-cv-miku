@@ -60,7 +60,7 @@
     ]
   )
   - Spearheaded the implementation of a "live" benchmark for code LLMs (Large Language Models), ensuring real-time performance evaluation while preventing data contamination.
-  - Holistically Evaluated LLMs 
+  - Evaluated LLMs on a wide range of tasks, including code generation, repair, execution, optimization, and test generation, revealing possible data contamination in new models.
 
   #datedsubsection(
     align(left)[
