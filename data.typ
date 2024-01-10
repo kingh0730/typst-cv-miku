@@ -59,8 +59,8 @@
       Jan 2023 - Dec 2023
     ]
   )
-  - Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library for circuit optimization using OpenAI Gym and Ray.
-  - Enabled ML researchers to design optimal circuits without any prior knowledge of circuit design, reducing the design time from 1 week to 1 day.
+  - Spearheaded the implementation of a "live" benchmark for code LLMs (Large Language Models), ensuring real-time performance evaluation while preventing data contamination.
+  - Holistically Evaluated LLMs 
 
   #datedsubsection(
     align(left)[
@@ -113,5 +113,6 @@
 
 #let techtitle = [ Skills ]
 #let tech = [
+  - Python, PyTorch, JS/TS, Rect/Next.js, Svelte, Rust, C/C++, Go, Java/C\#, CUDA, GCP, SQL, NoSQL, Agile
   - Python, PyTorch, JS/TS, Rect/Next.js, Svelte, Rust, C/C++, Go, Java/C\#, CUDA, GCP, SQL, NoSQL, Agile
 ]
