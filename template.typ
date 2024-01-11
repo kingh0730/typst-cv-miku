@@ -1,8 +1,7 @@
 // You may need to change this settings
-#let sansen = "Fontin"
-#let sanszh = "Source Han Sans SC"
-#let serifen = "Fontin" // KpRoman
-#let serifzh = "Source Han Serif SC"
+#let sans_en = "Fontin"
+#let serif_en = "Fontin" // KpRoman
+#let serif_smallcaps = "Fontin Smallcaps"
 #let emj = "Segoe UI Emoji"
 
 #let info = author => align(center)[
@@ -11,9 +10,9 @@
 ]
 
 // You don't really need to change the content below
-#let sans = (sansen, sanszh, emj)
-#let serif = (serifen, serifzh, emj)
-#let titlefont = (serifen, sanszh, emj)
+#let sans = (sans_en, emj)
+#let serif = (serif_en, emj)
+#let titlefont = (serif_smallcaps, emj)
 
 #let project(title: "", author: (
   name: ""
