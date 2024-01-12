@@ -10,6 +10,10 @@
 
 #self
 
+#section[ #titleemj("seedling.svg") #techtitle ]
+
+#tech
+
 #section[ #titleemj("telescope.svg") #projecttitle ]
 
 #projectexperience
@@ -17,10 +21,6 @@
 #section[ #titleemj("mortarboard.svg") #edutitle ]
 
 #edu
-
-#section[ #titleemj("seedling.svg") #techtitle ]
-
-#tech
 
 // #section[ #titleemj("darts.svg") #activitytitle ]
 
