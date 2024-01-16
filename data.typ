@@ -83,7 +83,7 @@
       May 2022 --- Aug 2022
     ]
   )
-  - Built a service for data processing and analysis using Django, enabling data scientists on the team to perform 10+ data pipelines, including association rule learning, dynamic time warping, etc.
+  - Built a service for data processing and analysis (like Airflow) using Django, enabling data scientists to perform 10+ data pipelines, including association rule learning, dynamic time warping, etc.
   - Trained, validated, and tested an object detection model for NASA satellite images using PyTorch CNNs, validating the feasibility of a new product.
 
   #datedsubsection(
