@@ -113,6 +113,6 @@
 
 #let techtitle = [ Skills ]
 #let tech = [
-  - *Languages*: Python, JavaScript, TypeScript, CUDA, Go, Rust, C, C++, SQL
-  - *Technologies*: PyTorch, Kubernetes, Spark, Airflow, React, Next.js, GCP
+  - *Languages*: Python, JavaScript, TypeScript, CUDA, Go, Rust, C, C++, Java, C\#, HTML, CSS, SQL, OCaml
+  - *Technologies*: PyTorch, Kubernetes, Spark, Airflow, React, Next.js, Tailwind, Django, GCP, AWS, Azure
 ]
