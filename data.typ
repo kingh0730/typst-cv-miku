@@ -96,7 +96,7 @@
     ]
   )
   - Prototyped the new Office AI for Excel using TypeScript, C\#, and TensorFlow, enabling users to perform 10+ AI tasks. Shipped to the Excel product team.
-  - Improved a deployed ML classification model (LSTM + CRF) using TensorFlow, increasing its F1 score from 72 to 77.
+  - Improved a deployed ML classification model (LSTM + CRF), increasing the F1 score from 72 to 77.
 
   // #datedsubsection(
   //   align(left)[
@@ -113,5 +113,6 @@
 
 #let techtitle = [ Skills ]
 #let tech = [
-  - Python, PyTorch, JS/TS, React/Next.js, Svelte, Rust, C/C++, Go, Java/C\#, CUDA, GCP, SQL, NoSQL, Agile
+  - *Languages*: Python, JavaScript, TypeScript, CUDA, Go, Rust, C, C++, SQL
+  - *Technologies*: PyTorch, Kubernetes, Spark, Airflow, React, Next.js, GCP
 ]
