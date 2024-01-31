@@ -53,7 +53,7 @@
   #datedsubsection(
     align(left)[
       *Research Engineer* \
-      _Sky Computing Lab_
+      _Sky Computing_
     ],
     align(right)[
       Mar 2023 --- _present_
