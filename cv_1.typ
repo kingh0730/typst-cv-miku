@@ -6,19 +6,19 @@
   author: author,
 )
 
-#section[ #titleemj("darts.svg") #selftitle ]
+#section[ /* #titleemj("darts.svg") */ #selftitle ]
 
 #self
 
-#section[ #titleemj("seedling.svg") #techtitle ]
+#section[ /* #titleemj("seedling.svg") */ #techtitle ]
 
 #tech
 
-#section[ #titleemj("telescope.svg") #projecttitle ]
+#section[ /* #titleemj("telescope.svg") */ #projecttitle ]
 
 #projectexperience
 
-#section[ #titleemj("mortarboard.svg") #edutitle ]
+#section[ /* #titleemj("mortarboard.svg") */ #edutitle ]
 
 #edu
 
