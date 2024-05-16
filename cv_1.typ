@@ -6,6 +6,9 @@
   author: author,
 )
 
+#show link: set text(blue)
+#show link: underline
+
 #section[ /* #titleemj("darts.svg") */ #selftitle ]
 
 #self
