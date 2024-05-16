@@ -71,7 +71,7 @@
       Jan 2023 --- Dec 2023
     ]
   )
-  - Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library for circuit optimization using OpenAI Gym and Ray.
+  - Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library (#link("https://github.com/BWRC-AMS-ML-Discovery/BwrcAmsMlDiscovery")[GitHub]) for circuit optimization using OpenAI Gym and Ray.
   - Enabled ML researchers to design optimal circuits without any prior knowledge of circuit design, reducing the design time from 1 week to 1 day.
 
   #datedsubsection(
