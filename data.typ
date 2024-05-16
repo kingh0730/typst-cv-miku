@@ -53,7 +53,7 @@
   #datedsubsection(
     align(left)[
       *Research Engineer* \
-      _Sky Computing_
+      _Sky Computing Lab_
     ],
     align(right)[
       Mar 2023 --- _present_
@@ -65,7 +65,7 @@
   #datedsubsection(
     align(left)[
       *Research Engineer* \
-      _UC Berkeley Electrical Engineering & Computer Sciences_
+      _Berkeley Wireless Research Center_
     ],
     align(right)[
       Jan 2023 --- Dec 2023
