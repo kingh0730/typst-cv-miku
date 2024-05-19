@@ -44,7 +44,7 @@
       Aug 2018 --- May 2024
     ]
   )
-  - Tech GPA: 4.0 | GPA: 3.92
+  - CS Major GPA: 4.0 | GPA: 3.9
   - *Coursework*: AI, ML, Probability, Linear Algebra, Algorithms, Optimization, Compilers, Computer Security
 ]
 
@@ -114,5 +114,5 @@
 #let techtitle = [ Skills ]
 #let tech = [
   Python, JavaScript, TypeScript, CUDA, Go, Rust, C, C++, Java, C\#, AWS (EC2, Lambda, RDS, S3), GCP, Azure,
-  PyTorch, Docker, Kubernetes, Spark, Airflow, React, Next.js, Tailwind CSS, Django, MySQL, MongoDB
+  PyTorch, Docker, Kubernetes, Spark, Ray, Airflow, React, Next.js, Tailwind CSS, Django, MySQL, MongoDB
 ]
