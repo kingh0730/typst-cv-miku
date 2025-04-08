@@ -59,8 +59,8 @@
       Mar 2023 --- _present_
     ]
   )
-  - Spearheaded the implementation of LiveCodeBench (#link("https://livecodebench.github.io")[100+ GitHub Stars]), a live benchmark for code LLMs, ensuring real-time performance evaluation while preventing data contamination.
-  - Designed a secure Docker image with repository-level context to evaluate code LLMs on a wide range of tasks, including code generation, repair, execution, optimization, and test generation (#link("https://r2e.dev")[ICML 2024]).
+  - Spearheaded the implementation of LiveCodeBench (#link("https://livecodebench.github.io")[ICLR 2025 & 400+ GitHub Stars]), a live benchmark for code LLMs, ensuring real-time performance evaluation while preventing data contamination.
+  - Designed a secure Docker image with repository-level context to evaluate code LLMs on a wide range of tasks, including code generation, repair, execution, and test generation (#link("https://r2e.dev")[ICML 2024 & 100+ GitHub Stars]).
 
   #datedsubsection(
     align(left)[
